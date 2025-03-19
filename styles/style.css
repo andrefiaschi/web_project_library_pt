@@ -44,9 +44,9 @@
   font-weight: bold;
 }
 
-.nav__link:hover {
+/* .nav__link:hover {
   color: #245fde;
-}
+} */
 
 .header__content {
   display: flex;
@@ -123,7 +123,7 @@
   margin: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   gap: 40px;
   list-style-type: none;
   padding-left: 0;
