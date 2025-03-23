@@ -178,6 +178,8 @@
   text-overflow: ellipsis;
 }
 
+/* ETAPA 2 */
+
 .events {
   padding: 100px 0 120px 80px;
   display: flex;
